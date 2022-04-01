@@ -1,4 +1,4 @@
-## PlayerRoleChecker
+## CustomPlayerRoleChecker
 
 ダウンロードしたら、必ずconfig.ymlを設定してください 
 
@@ -14,13 +14,13 @@
 
 - マインクラフトのサーバー2個
 
-## PlayerRoleCheckerConnector
+## CustomPlayerRoleCheckerConnector
 
 1. PlayerRoleCheckerConnectorは参加したプレイヤーが参加可能か確認するためのプラグインです
 
 2. ロールを確認して参加可能か確認します
 
-## PlayerRoleChecker
+## CustomPlayerRoleChecker
 
 1. PlayerRoleCheckerはランダムな4桁な数字を生成します
 
